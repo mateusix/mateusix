@@ -1,8 +1,9 @@
 ## Ola! Eu sou o Mateus Oliveira
 <div>
   <a href="https://github.com/mateusix">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusix&layout=compact&langs_count=16&theme=dark"/>
+   <img height="180em" margin-right="10%" src="https://nirzak-streak-stats.vercel.app/?user=mateusix&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusix&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
@@ -55,3 +56,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusix/mateusix/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusix/mateusix/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
+
