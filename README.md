@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Mateus Oliveira
 <div>
   <a href="https://github.com/mateusix">
-   <img height="180em" margin-right="10%" src="https://nirzak-streak-stats.vercel.app/?user=mateusix&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
+   <img height="328em" margin-right="10%" src="https://nirzak-streak-stats.vercel.app/?user=mateusix&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusix&layout=compact&langs_count=16&theme=dark"/>
   </a>
