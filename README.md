@@ -9,7 +9,6 @@
 
 ##
 
-
 <div style="display: inline_block"><br>
   <!-- Linguagens -->
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
